@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552420514 source:c:\users\eran.segal\documents\pirple\playlistparser\main.cpp
+	<iostream>
+	<string>
+
